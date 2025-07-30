@@ -1,0 +1,5 @@
+Hey everyone, welcome back! Last time, we laid the groundwork by unpacking what AI actually is—demystifying the buzzword and digging into how machines mimic aspects of human intelligence. Hopefully, you’re starting to see that AI is a lot more than just robots and sci-fi.
+
+Now, in this module, we’re zooming into a really fascinating space: how AI is shaping mobility and transportation. And trust me, it’s not just about self-driving cars. We’ll look at everything from how smart systems are managing road traffic, to the ways AI is transforming passenger and freight transport, even down to how ports and railways are getting smarter. Plus, we’ll explore shared mobility, intermodal connections, and the tech behind modern infrastructure.
+
+So, if you’ve ever wondered how your rideshare app predicts demand, or how goods move seamlessly across ships, trains, and trucks with AI in the mix—this is the module for you. Let’s dive in!

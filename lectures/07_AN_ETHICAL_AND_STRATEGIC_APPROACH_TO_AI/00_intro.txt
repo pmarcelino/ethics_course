@@ -1,0 +1,5 @@
+Hey everyone, welcome back! Last time, we really dug into the core values that underpin ethical AI—things like transparency, accountability, and keeping humans in the loop. Remember those discussions about privacy, safety, and making sure AI systems actually benefit everyone? That foundation is going to come in handy now, because in this module, we’re taking things a step further. 
+
+So, what’s on deck? We’re shifting focus to the practical side: how do you actually build and deploy AI in urban mobility in a way that’s both ethical and strategic? We’ll walk through everything from setting clear objectives and identifying risks, to ensuring data quality and equity, all the way to collaborating with regulators and crafting codes of ethics. Plus, we’ll talk about ongoing training, documenting errors, and continuous learning—because, let’s face it, this field is always evolving! 
+
+By the end of this module, you’ll have a toolkit for making smart, responsible decisions about AI in real-world urban environments. Let’s get started!

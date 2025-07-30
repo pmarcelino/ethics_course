@@ -1,0 +1,5 @@
+Alright, so let’s take a breath and recap where we are. In this module, we really focused on nailing down the basics: what actually is AI? We looked at how AI systems are designed to mimic human intelligence, explored some key terms, and touched on how these systems “learn” from data. This foundation is super important, because everything else we’ll discuss in the course builds on it.
+
+Now, looking ahead, things are about to get a lot more concrete. In the next module, we’ll dive into the nuts and bolts of how AI is transforming urban mobility. We’ll break down the road ecosystem, examine how AI is shaping passenger and freight transport, and even look at its impact on infrastructures and shared mobility options. Plus, we’ll peek into railways, ports, and how everything connects through intermodal transport.
+
+So, if you’ve ever wondered how AI actually shows up in your city’s daily movement—or what’s happening behind the scenes to make urban mobility smarter—get ready! There’s a lot of eye-opening stuff ahead. See you in the next module!

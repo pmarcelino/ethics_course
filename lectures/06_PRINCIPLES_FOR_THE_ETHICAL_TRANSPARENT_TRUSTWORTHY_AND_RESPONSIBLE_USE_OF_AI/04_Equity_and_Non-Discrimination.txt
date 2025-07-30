@@ -1,0 +1,15 @@
+Hey everyone, great to see you back. After our last deep dive into human supervision and intervention—where we really got into why humans still need to be a guiding force behind AI decisions—let’s shift gears to another key piece of the puzzle: equity and non-discrimination. Now, you might be wondering, what does that actually mean in the world of AI and mobility? Well, simply put, it’s about making sure that the benefits of these systems are open to all, not just a lucky few.
+
+Let’s put it this way: imagine you’re designing a new ride-sharing platform. It’s tempting to focus on making it fast, efficient, maybe even a bit flashy. But here’s the catch—if the underlying system favors certain neighborhoods, or if it’s harder for some people to use because of language, ability, or income, then we’re not really moving forward, are we? Instead, we’re reinforcing the same old divides, just with fancier technology.
+
+So, how do these problems sneak in? More often than not, it starts with the data. Suppose the system has tons of information from busy downtown areas, but very little from outlying neighborhoods. Or maybe the data doesn’t include enough examples of people with disabilities using the service. The result? The AI learns to optimize for the folks it sees most, sidelining everyone else. It’s a bit like planning a party but only sending invitations to the people who live on your street—unintentional, maybe, but still unfair.
+
+One thing I’d like you to think about is how we can spot and fix these gaps before they take root. It’s not just about running a quick check. We need to get into the habit of regularly reviewing where our data comes from and asking the hard questions. Are all communities present in our data sets? Are we missing out on anyone? And if we’re pulling data from outside sources, we have to be twice as careful—hidden biases love to sneak in the back door.
+
+But there’s more to equity than just data. Let’s say your mobility app only works in one language or isn’t designed for screen readers. For many people, that’s the same as locking the door. Equity means thinking ahead—making sure everyone can get in, no matter their background or ability.
+
+And let’s not forget, this isn’t a one-and-done task. AI systems learn and change over time. So, we need ongoing checks, feedback loops, and clear explanations of how the system makes decisions. The more transparent we are, the more users can trust and rely on what we build.
+
+In practice, equity and non-discrimination show up in things like expanding service to overlooked areas, adjusting pricing models for fairness, and making sure our tech is truly accessible. These aren’t just nice-to-haves—they’re at the heart of building systems people actually want and can use.
+
+Alright, as we wrap up this session, keep in mind that equity isn’t just a technical checkbox—it’s a commitment to fairness in everything we design. Up next, we’ll tackle another crucial topic: how to protect user privacy in these intelligent systems. See you there.
