@@ -1,5 +1,0 @@
-Alright, so let’s take a quick moment to wrap up what we’ve just covered in this module. We started by exploring the road ecosystem—so basically, how vehicles, infrastructure, and people interact in our urban streets. Then, we shifted gears to look at railways and guided transport, which have their own unique set of challenges and opportunities for AI and ethical considerations. And finally, we dove into ports, maritime, and inland waterways—areas that are often overlooked but play a massive role in how cities function and connect.
-
-Now, if you’re wondering where we go from here, get ready—we’re about to zoom out and tackle a big question: What is AI, really? In the next module, we’ll break down what artificial intelligence means, how it works, and why it matters so much for everything we’ve just discussed.
-
-So, take a breather, maybe grab a coffee, and I’ll see you in the next module to start unpacking the foundations of AI itself!

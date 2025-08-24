@@ -1,0 +1,13 @@
+Hey everyone, so that wraps up our first module! Let’s take a moment to recap what we’ve covered.
+
+We began by asking a foundational question: what is AI? We broke down the core idea—systems designed to mimic aspects of human intelligence—and introduced some key terms to keep things clear. We also touched on how AI “learns” from data, setting the stage for understanding its growing role in urban mobility.
+
+From there, we explored why mobility is such an important testing ground for AI. Cities worldwide are adopting AI systems to manage traffic, coordinate public transport, optimize freight, and expand shared mobility. The potential is impressive: cleaner and more sustainable transport, smarter logistics, and more accessible mobility for everyone.
+
+But we also took a critical look at the risks and challenges. AI in mobility isn’t a magic solution. It raises serious issues—privacy concerns, bias and fairness, safety questions, and accountability gaps. Without strong safeguards, these technologies can reinforce inequalities or create vulnerabilities in systems people rely on every day.
+
+That’s why we highlighted the need for guidelines and ethical frameworks. Regulations and principles aren’t just about compliance; they’re about building trust, transparency, and responsibility into AI systems so they work for people and cities, not against them.
+
+By the end of this module, you should have a clear picture of both the promise and the pitfalls of AI in urban mobility—and why thoughtful governance is essential to steer innovation in the right direction.
+
+Next, we’ll zoom in on the mobility and transport ecosystems themselves—roads, rail, ports, and more—to see how these ideas play out in practice. Let’s keep going!

@@ -1,0 +1,7 @@
+So, let’s recap what we covered in this module. We went deeper into the practical side of building ethical AI. We explored strategy and alignment, risk management, data quality, equity, human autonomy, privacy, transparency, and human supervision. We also covered ongoing training, error documentation, and continuous reflection to ensure systems remain responsible over time.
+
+Finally, we focused on legal and regulatory compliance, emphasizing that it’s more than just following the AI Regulation. We looked at the risk-based approach, the role of regulators, and why certain mobility and transport applications are considered high risk.
+
+By connecting ethics, strategy, and compliance, you now have a comprehensive toolkit for deploying AI responsibly in real-world urban mobility systems.
+
+So, that’s the big picture for this module. We hope you enjoyed it!

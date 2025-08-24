@@ -1,9 +1,11 @@
-Hi, everyone, and welcome! I’m really glad you’re here as we kick off this course: “AI Challenges and Ethical Considerations in Urban Mobility.” Now, if you’ve ever wondered how AI is reshaping the way we move around cities—and, more importantly, what kinds of ethical questions that raises—you’re definitely in the right place.
+Hey everyone, and welcome! I’m excited to kick off our course: “AI Challenges and Ethical Considerations in Urban Mobility.”
 
-So, let’s start with the big picture. We’re going to explore why we need clear guidelines as AI starts playing a bigger role in urban mobility. Think about the incredible potential—smarter traffic systems, cleaner transport, more accessible mobility for everyone. But, as you might guess, it’s not all smooth sailing. There are real risks and challenges too, from privacy issues to questions about fairness and accountability.
+If you’ve ever wondered how AI is reshaping the way we move through cities—and what ethical questions that raises—you’re definitely in the right place.
 
-What I find especially interesting is how this course dives into all the major transport ecosystems—roads, railways, ports, and more. We’ll break down what AI is, how it’s being used in everything from shared scooters to freight trains, and what that means for people, cities, and the environment.
+We’ll start by unpacking what AI is and how it’s already transforming transport systems, from shared scooters and ride-hailing apps to freight trains and port logistics. Together, we’ll explore what these changes mean for people, cities, and the environment across all major mobility ecosystems—roads, rail, waterways, and beyond.
 
-And we’re not just talking about the tech side; we’ll spend time on the ethical foundations. How do we make sure AI in mobility is transparent, safe, and respects everyone’s rights? What does responsible AI really look like in practice? Plus, we’ll look at the legal and regulatory landscape, and why compliance is about much more than just ticking boxes.
+The promise is huge: smarter traffic systems, cleaner and more sustainable transport, and mobility that’s accessible to more people. But alongside that potential come real risks and challenges. Issues like privacy, fairness, accountability, and safety must be addressed if we want AI in mobility to truly benefit everyone.
 
-Throughout, you’ll get frameworks, real-world examples, and the latest thinking on how to balance innovation with ethics. So, whether you’re a policymaker, technologist, or just curious about the future of urban life, you’ll find a lot to dig into here. Ready to get started? Let’s dive in!
+That’s why ethics will be at the heart of our discussions. We’ll ask: How can AI in urban mobility be transparent, safe, and rights-respecting? What does responsible AI look like in practice? And how do legal and regulatory frameworks guide us beyond simple compliance toward real accountability?
+
+Throughout the course, you’ll gain practical frameworks, examine real-world cases, and engage with the latest debates on balancing innovation with ethical responsibility. So whether you’re a policymaker, technologist, or simply curious about the future of urban life, you’ll find plenty to explore here. Ready? Let’s dive in!

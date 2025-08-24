@@ -1,0 +1,17 @@
+Welcome back, everyone. Today, we’re tackling two important topics: identifying risks and ensuring data quality. 
+
+When AI is deployed in city transport—whether managing shared scooters or predicting congestion—it’s tempting to focus only on the benefits. But our first responsibility is to ask: what could go wrong? 
+
+Start with risks to fundamental rights. If training data reflects past inequities—like fewer buses in low-income neighborhoods—the AI can reinforce them. Privacy is another front: trip histories, payment records, and GPS traces are sensitive, and misuse erodes trust. Security threats loom large too. Imagine hackers tampering with traffic-light systems: emergency response could stall, or entire networks could gridlock. Transparency is equally vital—if AI decisions are opaque, leaders and citizens can’t challenge mistakes.
+
+To prioritize, many teams use risk matrices. These map out both likelihood and impact, ensuring that resources go where risks matter most. But risks aren’t just technical—they carry financial and reputational costs, plus the harder-to-measure loss of public trust.
+
+Much of this connects back to data quality. AI is only as good as the data it learns from, and good data starts with representativeness. If your bus scheduling AI only learns from downtown routes, other areas will be underserved. Build datasets that reflect the full community—age, income, location—and revisit them regularly to catch gaps.
+
+Of course, even with the best intentions, bias can sneak in. How do we catch it? Well, modern AI projects use a mix of automated tools and good old-fashioned human oversight. Use alerts to flag anomalies—like certain neighborhoods consistently receiving fewer transit options—and follow up with periodic audits. When issues arise, fix them quickly by adjusting sources or retraining the system.
+
+Integrity is non-negotiable. From collection to analysis, data must remain accurate and secure. Tampered or outdated data can send vehicles astray or distort results. Safeguards like encryption, access controls, and automated quality checks help prevent such failures.
+
+Risk management doesn’t end at deployment. Teams must log system behavior, track anomalies, and update safeguards continuously. Accountability should be explicit: someone owns outcomes, and human oversight is always available to intervene when stakes are high.
+
+In short, risk management and data quality are two sides of the same coin. By identifying threats and building robust, fair, and secure data practices, organizations give their AI systems the best chance of earning—and keeping—public trust. Thanks for sticking with me, and see you next time!

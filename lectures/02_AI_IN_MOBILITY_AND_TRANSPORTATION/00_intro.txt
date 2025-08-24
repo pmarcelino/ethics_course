@@ -1,0 +1,9 @@
+Hey everyone, welcome back! Last time, we laid the foundation by unpacking what AI actually is—looking at its benefits, risks, and why strong guidelines are so important in the context of urban mobility. With that groundwork in place, we’re now ready to see how AI plays out in practice.
+
+In this module, we’ll zoom into the different mobility and transport markets where AI is already making an impact. We’ll start with the road ecosystem, exploring how smart traffic management and autonomous vehicles are reshaping daily mobility. From there, we’ll shift to railways and other guided systems, where AI is improving safety, scheduling, and efficiency. We’ll then head out to the maritime sector, including ports and inland waterways, to see how AI is transforming freight logistics, port operations, and global trade.
+
+Then, since mobility isn’t just about infrastructure, but also about how people and goods move through interconnected systems, we’ll touch on shared mobility services, intermodal connections, and the technologies behind modern infrastructure. Together, these examples highlight both the enormous opportunities AI brings—smarter, cleaner, more efficient transport—and the unique challenges each sector faces.
+
+By the end of this module, you’ll have a clearer picture of how AI is woven into the real-world transport landscape, and why understanding these markets is key to thinking about the ethical, technical, and policy questions we’ll tackle later.
+
+So, let’s dive in and explore how AI is shaping the future of mobility—one system at a time!

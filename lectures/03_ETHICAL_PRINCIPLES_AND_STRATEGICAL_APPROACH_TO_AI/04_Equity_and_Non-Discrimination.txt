@@ -1,0 +1,15 @@
+Hey everyone, welcome back. Last time, we explored human supervision and intervention—why people still need to guide AI decisions. Today, we’re turning to another key principle: equity and non-discrimination. Now, you might be wondering, what does that actually mean in the world of AI and mobility? Well, simply put, it’s about making sure that the benefits of these systems are open to all, not just a lucky few.
+
+Think about designing a new ride-sharing platform. You might focus on speed, efficiency, and features—but if the system favors certain neighborhoods or is harder to use for people because of language, ability, or income, you’re reinforcing old divides with shiny new tech.
+
+Often, inequities creep in through the data. If your training data is rich for busy downtown areas but sparse for outlying neighborhoods—or lacks examples of riders with disabilities—the AI will optimize for the people it “sees” most. It’s like planning a party but only sending invites to your own street: maybe unintentional, but still unfair.
+
+So, how do we catch these problems early? It starts with regularly reviewing and questioning your data sources. Are all communities represented? Are we missing key groups? And when using third-party data, be extra careful—bias often slips in quietly.
+
+But equity isn’t just about datasets. If your mobility app works only in one language or isn’t compatible with screen readers, many people will find it unusable. That’s the same as locking the door. Building for equity means thinking ahead: multiple languages, accessible design, and adaptable interfaces.
+
+And this is not a one-time fix. AI systems evolve, so equity checks must be ongoing—paired with feedback loops and transparency about how decisions are made. When people see how the system works, they can challenge unfair results and help improve it.
+
+In practice, equity and non-discrimination can mean expanding service to underserved areas, adjusting pricing models so affordability isn’t a barrier, and making sure our tech is truly accessible. These aren’t just nice-to-haves—they’re at the heart of building systems that communities can trust and actually use.
+
+As we wrap up, remember: equity isn’t just a technical checkbox. It’s a commitment to fairness at every stage, from data collection to daily operations. Next time, we’ll dive into protecting user privacy in intelligent mobility systems. See you there!

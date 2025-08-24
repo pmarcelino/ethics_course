@@ -1,5 +1,0 @@
-Hey everyone, welcome back! Last time, we dug into the benefits and challenges of using AI in mobility and transport, and we didn’t shy away from looking at the risks either—think bias, safety, privacy, and all those knotty issues that come with deploying AI out in the real world. It was a lot, right? But super important groundwork.
-
-Now, in this module, we’re switching gears and focusing on the principles that help AI systems earn our trust and actually serve people in urban mobility. We’ll break down what it really means for AI to be transparent—can we explain its decisions?—and who’s accountable when things go sideways. We’ll explore how humans should keep a hand on the wheel, why equity and non-discrimination matter, and, of course, issues like privacy, safety, and legal compliance. Plus, we’ll touch on environmental sustainability and how to respect users’ autonomy. 
-
-So, lots of ground to cover, but by the end, you’ll have a solid toolkit for thinking through what “ethical AI” actually means when the rubber meets the road—literally! Let’s get started.

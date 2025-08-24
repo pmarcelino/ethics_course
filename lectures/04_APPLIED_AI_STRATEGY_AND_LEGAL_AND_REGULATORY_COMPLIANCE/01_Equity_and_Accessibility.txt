@@ -1,0 +1,15 @@
+Hey everyone, welcome back. Today, we’re diving into two essentials for building tech that truly serves everyone: equity and accessibility.
+
+Equity in AI—especially for city transportation—means designing systems that respond to real differences among people. That starts with including diverse voices in the process. Imagine planning a community potluck but only inviting one street—you’d miss valuable contributions and leave people out. The same goes for AI. Involving people with disabilities, older adults, different cultural backgrounds, and others who might not usually have a say gives us a fuller picture of what fairness looks like for a community.
+
+It’s also about considering who might be affected in less obvious ways. Inclusion means thinking beyond the majority. If you’re designing a transit app, ask: Can someone who’s color-blind use it easily? What about a non-native speaker or someone new to smartphones? Thinking through these perspectives leads to designs that serve a wider range of people.
+
+But inclusive design only works if the AI’s training data reflects that diversity. This is where data quality meets equity: it’s not just about clean, accurate data—it’s about representative data. If an AI learns from only one segment of the population, it’s like teaching a student from a single chapter of the textbook. Regular bias checks—both in datasets and algorithms—are crucial. This might mean adding more examples from underrepresented groups or using algorithms built to detect and correct unfairness as they work.
+
+Then comes accessibility—making sure people can actually use what’s been built. Even the fairest AI fails if its tools create barriers. That might mean ensuring compatibility with screen readers, offering content in multiple languages, or simplifying layouts so they’re not overwhelming. These adjustments can be game changers for people who are often excluded from digital spaces.
+
+And here’s the key: equity and accessibility aren’t items to check off at the start of a project. They’re ongoing commitments. Needs shift, technology changes, and feedback reveals gaps you didn’t see before. Keeping channels open for input—and being willing to adapt—is what keeps systems truly inclusive.
+
+In short: equity ensures the system is designed for everyone, accessibility ensures everyone can use it. Together, they’re not just good practice—they’re essential for AI that earns trust and delivers real public value.
+
+Next time, we’ll explore how these principles connect to something even deeper: human autonomy in AI-powered environments. Looking forward to that conversation!

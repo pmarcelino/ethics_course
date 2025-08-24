@@ -1,0 +1,15 @@
+Moving on from responsibility, let’s focus on what it really means to keep humans in the loop. This is the practical side of accountability—ensuring people can actively monitor, step in, and steer AI systems when needed.
+
+Think of a pilot with autopilot engaged. The system handles the routine work, but the pilot stays alert, ready to take over if weather changes or instruments fail. AI in urban mobility—whether managing traffic lights or public transit—needs the same setup: clear points where a human can intervene if things go off-script.
+
+The first step is mapping out where and how human intervention might be needed. This isn’t just for emergencies—it’s for any scenario where AI might misinterpret data or face a situation that calls for human judgment. For example, if a bus-routing AI misreads a construction detour, who gets the alert, and how do they respond? These plans act like guardrails: you hope you won’t need them, but they must be ready.
+
+Plans alone aren’t enough. Humans in oversight roles need training and empowerment. Training should cover not just technical skills, but also the reasoning behind AI decisions—so supervisors can spot when something feels off. Empowerment is equally important; people must feel confident it’s okay to pause or override the system when needed. This builds trust and ensures decisions remain accountable.
+
+How much oversight is enough? It depends on risk level. For low-risk, routine scenarios—like optimizing bus schedules on a quiet morning—humans may only need to review periodic reports or respond to unusual alerts. For high-stakes cases, like rerouting ambulances during emergencies, human decision-making should be immediate and central. Oversight should always scale to the potential impact.
+
+Even with strong planning and training, issues will arise. That’s where auditing and feedback loops come in. Regularly reviewing AI performance—what worked, what failed—helps spot patterns, fix problems, and improve processes over time. Like a coach reviewing game footage, the goal is constant refinement.
+
+In short, human supervision and intervention are more than safety features—they’re the backbone of trustworthy AI. By identifying intervention points, training and empowering supervisors, matching oversight to risk, and learning continuously, we ensure humans remain at the center of decision-making.
+
+Next time, we’ll explore how to keep these systems secure—because even the best oversight can be undermined without strong protection in place. See you then!

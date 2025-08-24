@@ -1,0 +1,15 @@
+Hey everyone, glad to have you back! Last time, we explored transparency and explainability—how to peel back the curtain on AI’s decision-making. Now, let’s tackle something just as crucial: accountability in AI systems for urban mobility.
+
+If transparency tells us how AI thinks, accountability asks: Who’s responsible when things go wrong? Imagine you’re on a self-driving bus that takes a wrong turn—it’s not the bus answering for the mistake. Someone, somewhere, must take responsibility.
+
+Accountability means there’s always a real person or group—developers, operators, or both—responsible for system outcomes. Developers design algorithms, choose data, and set AI’s “rules of the road.” Operators run these systems day to day—public transit agencies, ride-hailing companies, or infrastructure managers. And responsibility isn’t just at launch—it spans the system’s entire lifecycle.
+
+This brings us to what’s called lifecycle accountability—like caring for a pet, you don’t just feed it once and walk away. AI systems need continuous oversight: risk assessments before launch, regular reviews for bias or safety issues, and clear protocols for stepping in when things go wrong.
+
+Making this real involves three key tools: traceability, auditability, and corrective action.  Traceability is about being able to retrace the AI’s steps—if there’s a complaint, you want to know exactly what the system decided and why. Auditability means outside experts can come in and check that everything’s above board, whether it’s safety checks or fairness reviews. And when things do go wrong—and let’s face it, sometimes they will—corrective action ensures there’s a plan to fix the issue, learn from it, and let people know what was done. These steps aren’t just about following rules—they also help build trust. For example, keeping the public in the loop about how decisions are made or corrected shows that the organization is serious about safety and fairness. And involving regulators, city officials, and community groups in oversight means accountability becomes part of the system’s DNA, not just a box to tick.
+
+Picture this: an autonomous shuttle misroutes during rush hour. Traceability reveals exactly where the logic failed. Auditability lets outside reviewers confirm safety checks worked. Corrective action fixes the bug, explains the incident to riders and officials, and updates protocols to prevent repeat errors.
+
+Ultimately, accountability in AI-driven mobility is a shared, ongoing responsibility—clear roles, steady monitoring, and open communication. That’s how we create urban AI systems that are not only innovative but also reliable and worthy of public trust.
+
+Coming up, we’ll take a closer look at human supervision and intervention, and see how real people can step in to guide or override AI when it really matters.

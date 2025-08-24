@@ -1,0 +1,17 @@
+Hey everyone, welcome back! Last time, we explored equity and accessibility—how AI can open urban mobility to everyone, regardless of background or ability. Today, we’re focusing on something just as central: human autonomy. In short, how do we make sure AI works with us, not over us?
+
+AI now shapes many aspects of city transport—suggesting routes, setting ride-share prices, even piloting autonomous shuttles. As these systems grow more capable, they can take more decisions on our behalf. The key question is, are we still in control, or is the technology taking the wheel?
+
+One way to protect autonomy is to design AI as a helpful guide, not an overbearing backseat driver. Take navigation apps: if you’re told to take a certain route, you should know why—fastest journey based on traffic, or a commercial deal influencing the choice? Clear reasoning lets users decide for themselves, instead of following blindly.
+
+Transparency also matters in everyday interactions. If you’re chatting with a support bot about a transit card, you should know it’s AI. If it makes a decision—like denying a refund—it should explain why in plain language. Trust grows when people understand both who they’re interacting with and how decisions are made.
+
+Protecting autonomy also means safeguarding rights. Privacy laws like GDPR set the floor, but ethical AI goes further—ensuring automated systems treat people fairly and keep data secure. Imagine two passengers being charged very different fares for the same trip because an algorithm assumes one can pay more. That’s not only unethical—it’s illegal under consumer protection laws. Fairness has to be built in from the start, with testing to spot and prevent bias.
+
+We also need to avoid dark patterns—design tricks that steer users toward certain actions through flashy buttons, confusing layouts, or hidden settings. These undermine choice. Ethical AI design keeps options clear, honest, and easy to navigate.
+
+Finally, autonomy requires redress. When an AI decision feels wrong or blocks access to a service, people must have straightforward ways to challenge it. That’s especially important for those less familiar with tech. Oversight and regular reviews keep these processes effective as systems evolve.
+
+Safeguarding autonomy isn’t just a compliance exercise—it’s a commitment to putting people at the center of AI. That means transparency, fairness, and genuine user choice at every stage.
+
+Next time, we’ll turn to privacy—a topic that’s only growing in importance as our cities and our data become more connected. See you then!

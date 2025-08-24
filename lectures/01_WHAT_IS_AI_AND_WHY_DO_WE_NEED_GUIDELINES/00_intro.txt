@@ -1,0 +1,9 @@
+Welcome to our first module! We’re going to set the stage for everything that follows, by answering a deceptively simple question: what is AI, and why does it need guidelines in the context of urban mobility?
+
+We’ll start by unpacking the basics—what we actually mean when we talk about “AI.” No technical background is required; we’ll focus on clear definitions, core concepts, and just enough history to understand how these systems came to play such a central role in transport.
+
+Once we’ve clarified what AI is, we’ll look at why mobility in particular raises the stakes. Cities are adopting AI at an incredible pace—whether for managing traffic flows, supporting public transport, or coordinating freight. These tools can bring real benefits: greater efficiency, cleaner transport options, and more accessible mobility for diverse groups of people.
+
+But it’s equally important to see the full picture. AI can also create risks—around privacy, fairness, accountability, and safety. If left unchecked, these systems may reinforce existing inequalities or introduce new vulnerabilities into critical infrastructure. That’s why guidelines and principles aren’t just optional add-ons; they’re essential to making AI in mobility both effective and trustworthy.
+
+By the end of this module, you’ll have two things: a solid foundation for understanding what AI actually is, and a clear view of both its promise and its pitfalls in the transport space. With that groundwork, we’ll be ready to dive deeper into the ethical, legal, and practical challenges in later modules. So, let’s get started!

@@ -1,0 +1,5 @@
+Hey everyone, welcome back! In the previous module, we laid the groundwork with core ethical principles. Now it’s time to focus on putting them into practice.
+
+We’ll look at strategic approaches to AI: setting objectives, identifying risks, ensuring data quality, promoting equity and human autonomy, and documenting errors for continuous learning. We’ll also cover collaboration with regulators, codes of ethics, and training programs to make sure AI implementation stays responsible.
+
+Finally, we’ll zoom in on the legal and regulatory side, exploring compliance beyond just ticking boxes, the roles of authorities, and why certain mobility and transport applications are high risk. By the end, you’ll understand how to deploy AI ethically and strategically in real-world urban mobility environments. Let’s dive in!

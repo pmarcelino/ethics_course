@@ -1,5 +1,0 @@
-Hey everyone, welcome back! Last time, we explored the fascinating ways AI is transforming mobility—everything from how it shapes the road ecosystem and passenger transport, to its impact on freight, shared mobility, and even ports and waterways. We saw how AI weaves through all these different systems, making our urban environments smarter and more connected.
-
-Now, in this module, we’re shifting gears a bit. We’ll be digging into the benefits, the challenges, and yes—the risks—of bringing AI into these mobility and transport markets. Why is AI such a game changer here? Where does it truly shine? But also, what are those tricky issues and potential pitfalls we need to watch out for? We’ll break down the good, the complicated, and the risky, so you’ll walk away with a balanced view of AI’s real-world impact.
-
-So, buckle up! Let’s dive into what makes AI in urban mobility so promising—and why we need to keep our eyes open as we move forward.

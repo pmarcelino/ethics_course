@@ -1,0 +1,13 @@
+Hey everyone. Picking up from where we left off. Today we’re narrowing our focus to a place that’s impossible to ignore: our cities. More specifically, we’ll be digging into the challenges posed by rapid urbanization, and how AI is quietly, yet powerfully, reshaping how cities function and grow.
+
+Cities are expanding fast. Every day, thousands move into urban areas, chasing better jobs and services. But that surge strains infrastructure—think packed highways during rush hour, water pipes stretched to their limits, and parks that can’t keep up with demand. Traditional tools and guesswork aren’t enough anymore. So how can city leaders keep pace and make smarter, faster decisions?
+
+This is where AI steps in. By processing streams of real-time data—from pedestrian flows to pollution levels—AI helps transform overload into insight. Think of it as a supercharged dashboard for planners: spotting patterns, predicting issues, and targeting resources precisely. Imagine forecasting traffic bottlenecks before they happen or anticipating spikes in energy demand.
+
+But AI doesn’t just react—it enables proactive planning. Simulation tools let city officials test decisions before implementing them.  Want to see how closing a major road for repairs might affect emergency response times? Or how a new housing development could impact local schools? These predictive models help leaders weigh different options and prepare for the unexpected.
+
+Let's now think of urban transportation. This is another AI success story. By analyzing traffic in real time, AI can fine-tune traffic lights, suggest less-congested routes for drivers, and even reshuffle public transit schedules on the fly. The result? Quicker commutes, fewer emissions, and a smoother experience for everyone.
+
+On the ground, AI is already at work. Some cities use sensors to detect river pollution early, triggering clean-up before it becomes a crisis. Others rely on AI to streamline bus schedules, ensuring drivers and vehicles are exactly where they need to be. By embedding AI into every layer of management, cities begin to function less like overloaded systems and more like coordinated ecosystems.
+
+In short, AI is becoming indispensable for managing urban growth. It enables smarter planning, faster responses, and more resilient infrastructure. Cities can now move from falling behind to staying ahead. Next time, we’ll zoom out to explore how these changes in urban mobility are rippling across the globe. Thanks for being here—see you then.

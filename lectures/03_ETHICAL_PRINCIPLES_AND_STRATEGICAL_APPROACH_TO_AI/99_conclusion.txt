@@ -1,0 +1,5 @@
+All right, so let’s take a step back and look at what we’ve covered in this module. We explored the core principles for ethical AI in urban mobility. You learned why transparency and explainability are essential, so AI decisions aren’t just a black box. We looked at accountability, human supervision, and intervention mechanisms to technology on track. We also covered privacy protection, safety, fairness, sustainability, legal compliance, and respecting user autonomy.
+
+All of these pieces come together to form a solid foundation for responsible AI—helping ensure that systems aren’t just smart, but truly serve people, cities, and the environment.
+
+Next, we’ll shift from principles to practice. In the next module, you’ll see how these ideas translate into strategic, real-world implementation—from setting objectives and identifying risks to collaborating with regulators and embedding ethics into daily operations.

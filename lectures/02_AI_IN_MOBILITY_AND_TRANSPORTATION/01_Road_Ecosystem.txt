@@ -1,0 +1,21 @@
+Hey there, and welcome to the first stop on our journey through the world of road transport. I’m excited to have you here as we begin this module with a big-picture look at what we call the road ecosystem.
+
+You might think, “Roads and cars—how complex can it be?” But as we’ll see, there’s far more beneath the surface than just rubber meeting asphalt. An ecosystem—whether in nature or transport—is a network of interacting parts. In nature, it’s plants, animals, water, and air, all influencing each other. In road transport, it’s roads, vehicles, people, businesses, and technology working together to keep us moving. And just like in nature, a change in one part ripples through the whole system.
+
+If we look back 10 or 15 years, road transport felt simpler. Most of us just focused on getting from A to B, maybe checking traffic first. But today, the landscape is changing fast—and one of the biggest drivers is AI. Now, AI isn’t just about self-driving cars. It’s woven into apps that track buses, algorithms that route delivery trucks, and systems that help cities fix potholes before they become hazards.
+
+So where exactly is AI showing up? Let’s break it down.
+
+First, on passenger transport. From daily commutes to ridesharing, AI predicts delays, suggests better routes, and makes sure shared cars, bikes, or scooters are where you need them. It’s like having a travel assistant in your pocket.
+
+Second, we have freight transport. Behind the scenes, AI keeps goods moving smoothly by planning routes, monitoring trucks in real time, and reducing congestion delays—making logistics faster and more reliable.
+
+Then, we have infrastructure management. As cities use AI to adjust traffic lights, detect accidents instantly, and schedule maintenance before problems escalate, it acts like a 24/7 caretaker for the road network.
+
+And looking at shared mobility and services, from bike shares to carpooling, AI balances supply and demand, matches riders with vehicles, and ensures services run efficiently.
+
+But the road ecosystem is more than vehicles and algorithms—it’s also the infrastructure and organizations behind it. National highways and major routes move large volumes across long distances, while regional networks link towns and neighborhoods. These roads are managed by infrastructure companies, concessionaires, and sub-concessionaires working alongside governments to handle construction, maintenance, and tolling. Supporting this system are countless services: driving schools, testing centers, vehicle inspections, rental companies, taxi firms, and ride-hailing platforms. And don’t forget intelligent transport systems, which integrate payment, route planning, and mode switching to make mobility more seamless.
+
+Finally, AI is reshaping the business side too—enabling on-demand delivery, dynamic pricing, and instant driver–rider matching. Mobility is shifting toward faster, smarter, and more personalized models.
+
+So, to wrap up: the road ecosystem is evolving rapidly and, thanks to AI, we’re creating entirely new ways of moving. In our next session, we’ll zoom in on passenger transport and explore how AI is transforming the way we travel. See you then!

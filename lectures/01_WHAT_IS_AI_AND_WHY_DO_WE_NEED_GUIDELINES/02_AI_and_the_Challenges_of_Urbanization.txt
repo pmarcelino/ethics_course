@@ -1,0 +1,9 @@
+Hey everyone, and welcome back.  Today, we’ll explore how AI has evolved from a futuristic dream into something quietly shaping many parts of our daily lives in surprising and often invisible ways.
+
+Let’s take a moment to rewind. Not so long ago, AI was seen as the stuff of science fiction or, at best, the backbone of some clunky expert systems. Maybe you remember the early days of computer chess or those voice assistants that could barely tell the difference between a shopping list and a song request. Now, it’s a whole new ballgame. Modern AI systems are not just following rigid instructions; they’re learning, adapting, and even creating. If you’ve used a navigation app that reroutes you around traffic, or asked your phone a question and actually gotten a useful answer, you’ve already felt the presence of AI—even if it faded into the background.
+
+AI’s impact goes far beyond smarter gadgets. Businesses across many sectors now use AI to forecast trends, personalize experiences, and automate tasks, boosting efficiency and creativity. The rise of generative AI tools — like ChatGPT — has made AI accessible to millions, with ChatGPT reaching 100 million users in just two months after launching in late 2022, faster than any app in history. Governments and investors are paying close attention too, seeing AI as a key engine for future economic growth.
+
+Imagine cities where traffic flows effortlessly, or healthcare systems that can predict emergencies before they happen. These aren’t distant ideas; they are emerging realities powered by AI innovations.
+
+As we go through this course, keep in mind that AI isn’t just another tool—it represents a fundamental shift in how we approach problems and shape our future. In upcoming sessions, we’ll dive into major challenges like urbanization and explore how AI could help address them. Thanks for joining me today, and I can’t wait to see where this journey takes us.

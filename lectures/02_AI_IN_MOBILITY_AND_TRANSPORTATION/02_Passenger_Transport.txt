@@ -1,0 +1,15 @@
+Hey everyone, glad you’re here. Picking up from our last discussion about the road ecosystem, today we’re focusing on something that touches nearly all of us daily—passenger transport. We’ll look at how AI is changing the way we travel, from personal cars to public transit, the tech driving these shifts, and the questions they raise.
+
+Let’s start with autonomous vehicles. Imagine hopping into a car, stating your destination, and letting the vehicle handle the rest—no hands on the wheel, no feet on the pedals. While it sounds like science fiction, it’s closer to reality than ever. Self-driving cars use AI algorithms to read the road, detect obstacles, and make split-second decisions. The goal is to reduce accidents caused by human error, ease congestion, and drive more efficiently to lower emissions. But there’s a trade-off. Those sensors and cameras gather constant data—not just about the road, but about you. Who owns that information? How is it protected? These are key challenges for engineers, lawmakers, and society to solve.
+
+Inside these vehicles, the “senses” come from cameras, lidar, and radar, building a near 360-degree view. AI software then plans routes, pinpoints location, detects objects, and responds instantly. Cars can even share information with each other to prevent accidents—a kind of collective road awareness.
+
+AI isn’t limited to fully autonomous cars. Many vehicles already have driver-assist features like lane-keeping alerts, automatic braking, and blind-spot detection. These systems act as co-pilots, enhancing safety and reacting faster than humans. In emergencies, AI-powered crash detection can instantly alert services, potentially saving lives.
+
+Public transit is also seeing major AI upgrades. Cities are using algorithms to predict passenger flows and adjust schedules in real time, reducing wait times and improving reliability. Singapore, London, and others are testing systems that optimize routes dynamically—keeping buses and trains running smoothly even when demand changes unexpectedly.
+
+AI can also enhance the passenger experience directly. Ticketing apps may recommend the fastest or cheapest combination of transport, factoring in delays and disruptions. Some cities are piloting AI chatbots that give live travel updates or suggest alternative routes when problems occur.
+
+However, the more AI shapes transport, the more important ethical and governance questions become. Data privacy, cybersecurity, and accountability for AI-driven decisions can’t be afterthoughts. Without safeguards, these systems risk overstepping into constant surveillance or making biased choices that affect how people move.
+
+So, to wrap things up: AI is changing passenger transport in big and small ways, offering a lot of potential but also raising important questions. Up next, we’ll turn our attention to how AI is transforming freight transport—making the movement of goods smarter and more efficient. Looking forward to exploring that with you.

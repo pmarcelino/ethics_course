@@ -1,0 +1,15 @@
+Welcome back! Today we’ll dive into strategy and alignment—and how that naturally flows into setting clear objectives and needs.
+
+Building AI into mobility and transport starts with strategy—not with technology, and real strategy begins with your mission and values. The first question is, why are you bringing AI in at all? Is AI the right tool for this job, or would a simpler, lower-risk option work better? Sometimes a better bus schedule or new bike lanes will solve the problem faster and cheaper. The right solution is the one that works, not the flashiest one, so sometimes the best move is “not yet.”
+
+Your AI strategy is a living document, not a one-time report. It should explain the purpose, expected outcomes, and priorities of your project. Maybe the goal is to reduce congestion, improve accessibility, or cut emissions. Vague goals like “improve transportation” won’t cut it. Whatever it is, make it measurable: reduce wait times by 15%, improve coverage in underserved areas, or cut fuel use by 20%. These targets will shape your entire project and give you benchmarks to track progress.
+
+Strategy also means realism. AI might optimize traffic flow, but it can introduce risks—like privacy issues or bias in routing. Naming those challenges early is like packing an umbrella for a sunny trip: it prepares you for surprises. Review the strategy regularly—at least once a year—to adapt to shifting policies, technology, and urban needs.
+
+Alignment comes from involving diverse voices: engineers, policymakers, legal experts, and community representatives. This multidisciplinary “pit crew” spots blind spots before they become roadblocks. It also ensures that the project doesn’t just serve technical or business goals but delivers real public value.
+
+Keep equity and ethics at the center. Set objectives that benefit all groups—including seniors, rural residents, or low-income communities—and monitor progress toward fairness. Link your goals to tangible outcomes people can feel: shorter waits, cleaner air, safer commutes.
+
+Finally, let ethics guide you as a compass. Safeguard privacy, explain how AI is being used, and be ready to adjust or stop deployment if harms outweigh benefits. Strategy and alignment give you direction; clear objectives keep you on course. Together, they make AI projects relevant, ethical, and truly impactful.
+
+Next up, we’re going to dig into the risks that can pop up along the way—and how to tackle them head-on. Looking forward to that!

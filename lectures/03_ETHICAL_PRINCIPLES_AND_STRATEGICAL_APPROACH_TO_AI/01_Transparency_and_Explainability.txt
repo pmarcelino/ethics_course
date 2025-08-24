@@ -1,0 +1,19 @@
+Hey everyone! Today, we’re starting with two essentials for making AI work well in our cities: transparency and explainability. Since this is our first topic, let’s look at why they matter and what they mean in practice.
+
+Well, when AI makes decisions in our cities, people need to know what it is doing and why. Think about it: you’re using a bike-sharing app and suddenly the cost of your usual route doubles, or your train skips a stop because a “smart” routing system decided it was more efficient. Without an explanation, it’s frustrating and undermines trust.
+
+Transparency is about shining a light on how AI works—the inputs it uses, the processes it follows, and the rules or models that drive its decisions. It’s like looking at the recipe behind a dish: what ingredients went in, how they were combined, and what substitutions were made. For AI, this means clear documentation, open processes, and decision logs that can be audited if problems arise.
+
+Explainability, on the other hand, makes those details understandable. If transparency opens the kitchen, explainability ensures the recipe makes sense to whoever’s reading it. The explanation must be tailored: commuters need plain-language reasons like “We rerouted you due to a signal failure ahead”, while city planners may need more technical detail about data sources, algorithm logic, and exceptions.
+
+Some AI systems are easier to explain than others. Rule-based programs are like simple flowcharts—easy to follow. But machine learning models, especially complex ones, are harder to interpret—like watching a chess grandmaster make brilliant moves without understanding the reasoning. That’s why clear, accessible explanations are vital.
+
+In practice, transparency and explainability involve: Defining purpose and limits before deployment: what the system is meant to do, the data it uses, and known risks; Keeping thorough records: decision logs, documentation, and model updates; Providing accessible explanations for different audiences—simple and quick for everyday users, more detailed for regulators and engineers; and updating explanations as systems evolve, since AI changes with new data and improvements.
+
+For urban mobility, these principles matter everywhere: bus routing, traffic light control, fare calculations, or ride-sharing prices. Transparent, explainable systems help commuters understand outcomes, allow city leaders to prove fairness and safety, and give regulators the tools to check compliance.
+
+Most importantly, these practices build trust. They prevent misunderstandings, allow mistakes or bias to be spotted early, and ensure AI serves everyone rather than just a select few.
+
+In short, transparency shows us how AI works, and explainability helps us understand it. Together, they make AI in mobility accountable, trustworthy, and people-centered—a foundation for all the other ethical principles we’ll explore.
+
+As we move forward, our next topic will explore accountability—how to make sure those building and running AI systems take responsibility for their impact. Thanks for joining me for this opening session. I’m looking forward to digging deeper with you next time.

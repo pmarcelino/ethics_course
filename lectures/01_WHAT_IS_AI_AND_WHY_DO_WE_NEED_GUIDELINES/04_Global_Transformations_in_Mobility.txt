@@ -1,0 +1,19 @@
+Hey everyone, and welcome back. Last time, we talked about how AI is reshaping city life—from easing traffic to helping urban systems adapt to rapid growth. Today, we’re zooming out to look at mobility on a global scale—and why AI is increasingly central to making it smarter, greener, and more resilient.
+
+So, what’s driving this transformation? For one, globalization—people and goods are moving across borders more than ever. On top of that, urban populations are exploding, expectations for seamless, sustainable travel are rising, and the sharing economy is changing how we think about transportation. More people are ditching car ownership in favor of on-demand access to bikes, rideshares, and public transit. It’s a fundamental shift in mindset—mobility as a service, not a possession.
+
+But with greater movement comes greater complexity. Logistics systems stretch across continents, relying on countless handoffs, time zones, and regulations. One small delay can ripple across entire networks. It’s like a massive orchestra that needs perfect coordination—or everything falls out of tune.
+
+This is where AI shines. By processing real-time data from traffic sensors, weather systems, vehicle fleets, and more, AI helps transport systems stay agile. It can reroute delivery trucks around delays or adjust public transit schedules during a storm—keeping everything moving smoothly.
+
+Then there’s sustainability. As cities push for greener futures, AI helps by recommending fuel-efficient routes, managing electric vehicle charging, and suggesting low-emission travel options. Imagine an app that balances cost, speed, and carbon impact. That’s AI in action.
+
+Still, while the benefits are exciting, we can’t ignore the risks. AI systems are complex, often operate as “black boxes,” and sometimes make biased decisions. They rely on vast amounts of personal data—when we travel, where we go, who we’re with. Without strong safeguards, privacy can be compromised. And as AI becomes more embedded in infrastructure, the risk of cyberattacks and surveillance grows. It’s not just about innovation—it’s about trust. So where do we go from here?
+
+To move forward, we need more than advanced tech—we need clear, ethical guidelines. These frameworks go beyond legal compliance to make sure AI supports human values: fairness, transparency, and accountability. Many are based on international standards, like the EU’s Ethics Guidelines for Trustworthy AI or the OECD’s AI Principles.
+
+At their core, these guidelines aim to safeguard users, uphold accountability, and support ethical innovation in transport – by embedding ethics into design and governance, and ensuring legal compliance every step of the way.
+
+So, remember: AI is reshaping global mobility—but how it’s used matters just as much as what it can do. These guidelines aren’t just checklists—they’re roadmaps to a future where technology earns and keeps public trust. 
+
+Thanks for joining me and see you next time!

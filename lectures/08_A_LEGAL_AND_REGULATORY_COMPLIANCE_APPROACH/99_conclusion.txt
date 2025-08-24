@@ -1,7 +1,0 @@
-Alright, so let’s take a moment to look back at what we just covered in this last module, because there was a lot to unpack here.
-
-We dove into the legal and regulatory side of AI in mobility and transport, which—let’s be honest—isn’t always the flashiest topic, but it’s absolutely critical. First up, we looked at how compliance goes way beyond just following the latest AI Regulation.
-
-There are all these other laws, standards, and ethical considerations that need to be in the mix. We got into the risk-based approach that’s really shaping how AI is managed: not all systems are treated the same, and the level of oversight depends on how risky the application is. And of course, we finished by zeroing in on high-risk scenarios in mobility and transport—because when things go wrong here, the stakes can be huge.
-
-So, that’s the big picture for this module. We have also reached the end of this course, hope you enjoyed it and see you soon!  

@@ -1,0 +1,25 @@
+Hey everyone, welcome back! Today we’re looking at what it really means to comply with AI rules—and why mobility and transport are such hotspots for high-risk AI.
+
+While Europe is our example, the principle applies globally. In the US, Canada, or Singapore, AI-specific rules always interact with broader laws on data protection, sector regulation, and cybersecurity.
+
+In Europe, the AI Regulation is the foundation—a unified framework ensuring safe, transparent, and accountable AI. Think of it as replacing a jumble of road signs with one clear system. But that’s only the first layer. The moment your service handles personal data—like routes, payments, or location—you must also comply with the GDPR: minimizing collection, anonymizing when possible, and upholding user rights to access or delete their data.
+
+Next come sector-specific rules. In mobility, the ITS Directive and national laws govern intelligent transport systems, while EU transport regulations safeguard competition and users. Other jurisdictions take a similar approach: AI laws sit alongside sector rules that shape real-world operations. Add in the Cybersecurity Act, the Digital Services Act, and global equivalents, and you see compliance is always multi-layered.
+
+The AI Regulation’s risk-based model is key. AI is classified into four categories:
+Unacceptable risk – which is banned outright (e.g., manipulative AI).
+High risk – which requires strict oversight (e.g., traffic management systems).
+Limited risk – that comes with transparency obligations (e.g., chatbots).
+Minimal risk – that requires no regulation (e.g., AI suggesting bus routes).
+
+This means a route-planning chatbot and an autonomous bus won’t face the same scrutiny. Other countries use different terms, but most match oversight to potential harm.
+
+Mobility and transport frequently fall into high risk, because AI here manages safety-critical systems: metros, traffic lights, self-driving vehicles, or cargo fleets. Failures have immediate, serious consequences—so these systems are automatically flagged for tighter control.
+
+Before market entry, high-risk systems must undergo a conformity assessment—a rigorous check proving they are safe, reliable, and fair. This covers cybersecurity, accuracy, transparency, and documentation. Without passing, deployment isn’t allowed.
+
+Companies must also conduct risk management throughout the AI’s lifecycle; ensure data quality, since biased or messy inputs undermine safety; keep detailed logs to trace issues; provide transparency, making clear what AI can and can’t do; build in human oversight to intervene if needed; and protect against cyber threats while ensuring system robustness.
+
+Public authorities deploying high-risk AI face extra duties too: they must assess impacts on fundamental rights such as privacy, fairness, and non-discrimination before rollout.
+
+In short: compliance isn’t just about following one regulation—it’s about navigating overlapping AI, data, transport, and security rules through a risk-based lens. And in mobility, that usually means high-risk status, demanding extra rigor. The goal isn’t to slow innovation but to ensure it is safe, fair, and trustworthy. In transport, safety and accountability aren’t optional—they’re the ticket to ride. Thanks for sticking with me through this journey!
